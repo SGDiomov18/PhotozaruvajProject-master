@@ -1,0 +1,38 @@
+body{
+    overflow: hidden;
+    background: #141414;
+}
+
+.HeaderTechnologies{
+    position: relative;
+    left: 0;
+    right: 0;
+    height: 80px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.hrTestUP{
+    position: absolute;
+    left: 45%;
+    width: 200px;
+    opacity: 0.2;
+}
+.hrTestDOWN{
+    position: absolute;
+    width: 200px;
+    opacity: 0.2;
+    left: 45%;
+    bottom: 20%;
+
+}
+
+.TechnologiesText{
+    position: absolute;
+    font-size: 25px;
+    font-family: Consolas;
+    justify-content: center;
+    left: 46%;
+    color: White;
+}
